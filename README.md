@@ -51,11 +51,6 @@ Aspiring Data Analyst with a passion for uncovering stories behind data. Constan
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=zahraasalih0&bg_color=00000000&color=0c8322&line=0c8322&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/zahraasalih0">zahraasalih0</a></i></p>
