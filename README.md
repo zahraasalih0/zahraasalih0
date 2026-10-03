@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=565&height=44&lines=I'm%20a%20Computer%20Engineering%20graduate;Aspiring%20Data%20Analyst" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  🚀 About Me
 
 Aspiring Data Analyst with a passion for uncovering stories behind data. Constantly learning new technologies in SQL, Python, and BI tools."
 
